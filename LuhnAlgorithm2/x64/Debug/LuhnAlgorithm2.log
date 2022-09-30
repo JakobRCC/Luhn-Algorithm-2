@@ -1,0 +1,5 @@
+﻿  LuhnAlgorithm2.cpp
+C:\Users\jajo7\source\repos\LuhnAlgorithm2\LuhnAlgorithm2\LuhnAlgorithm2.cpp(40,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\jajo7\source\repos\LuhnAlgorithm2\LuhnAlgorithm2\LuhnAlgorithm2.cpp(136,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jajo7\source\repos\LuhnAlgorithm2\LuhnAlgorithm2\LuhnAlgorithm2.cpp(153,57): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  LuhnAlgorithm2.vcxproj -> C:\Users\jajo7\source\repos\LuhnAlgorithm2\x64\Debug\LuhnAlgorithm2.exe
